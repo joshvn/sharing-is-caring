@@ -1,0 +1,46 @@
+body {
+    font-family: 'Source Code Pro';
+}
+
+.content {
+    margin: auto; /* this will center horizontally */
+    max-width: 40em; /* 640px */
+    padding: @ 1em; /* no padding top and bottom left and right */
+}
+    
+.full {
+    height: 100%;
+    border: 1px solid grey;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed
+}
+
+#panda {
+    background-image: url(http://orig00.deviantart.net/387a/f/2009/033/d/e/panda_by_mstymay.png)
+}
+
+#cards {
+    background-image: url(panda2.png);
+}
+
+#arm {
+    background-image: url(http://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1440/14463587_xkcjwm.jpg)
+}
+
+#ppp {
+    width: 300px;
+    margin-left: -150px;
+    margin-top: -150px;
+    position: absolute;
+    left:50%;
+    top:50%;
+}
+
+#hi {
+    background-image: url(panda4.jpg);
+}
+
+#subscribe {
+    
+}
