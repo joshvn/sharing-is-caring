@@ -33,14 +33,14 @@ body {
     margin-left: -150px;
     margin-top: -150px;
     position: absolute;
-    left:50%;
-    top:50%;
+    left:20%;
+    top:20%;
 }
 
 #hi {
     background-image: url(panda4.jpg);
 }
 
-#subscribe {
-    
+#pandafinal {
+    background-image: url(PandaFinal.jpg)
 }
